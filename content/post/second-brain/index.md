@@ -1,7 +1,7 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: 🧠 First post. Git
+summary: Task 2 
+date: 2024-09-03
 authors:
   - admin
 tags:
