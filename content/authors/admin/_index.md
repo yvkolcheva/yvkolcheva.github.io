@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Индивидуальный сайт
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Колчева Юлия
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Юлия
+last_name: Колчева
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: студент
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: РУДН
     url: https://openai.com/
 
 # Social network links
@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Теория веротностей и математическая статистика
+  - ИИ
+  - Книги
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Прикладная математика и информатика
+    institution: РУДН
+    date_start: 2024-09-01
+    date_end: 2026-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -84,8 +84,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Студент
+    company_name: РУДН
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -143,11 +143,10 @@ skills:
 
 languages:
   - name: English
+    percent: 50
+  - name: Русский
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
