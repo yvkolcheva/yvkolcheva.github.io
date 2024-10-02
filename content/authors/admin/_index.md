@@ -182,4 +182,4 @@ awards:
 ---
 
 ## About Me
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Здравствуйте! Меня зовут Колчева Юлия, я обочаюсь в РУДН, в группе НПМмд-02-24. На данном сайте размещена основная инфрмация обо мне. 
