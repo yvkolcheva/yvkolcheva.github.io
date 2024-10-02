@@ -11,17 +11,14 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+.
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+We studied the version control system.  During the work, it was necessary to create a basic configuration for working with git. Namely 1. Create an SSH key. 2. Create a PGP key. 3. Set up git signatures. 4. Register on Github. 5. Create a local directory for completing assignments on the subject.
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+## Results
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+I have successfully completed this task.
 
-## Mindmaps
-
-Hugo Blox supports a Markdown extension for mindmaps.
 
 With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
 
