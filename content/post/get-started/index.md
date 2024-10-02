@@ -1,6 +1,6 @@
 ---
 title: 🎉 First post. Git
-summary: Задание 2 этапа создания персонального сайта
+summary: Task
 date: 2024-10-03
 
 # Featured image
