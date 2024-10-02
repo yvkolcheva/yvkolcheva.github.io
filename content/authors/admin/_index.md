@@ -3,7 +3,7 @@
 title: Индивидуальный сайт
 
 # Name pronunciation (optional)
-name_pronunciation: Колчева Юлия
+name_pronunciation: Колчева Юлия Вячеславовна
 
 # Full name (for SEO)
 first_name: Юлия
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/yvkolcheva/yvkolcheva.github.io
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -48,64 +48,37 @@ profiles:
 
 interests:
   - Теория веротностей и математическая статистика
-  - ИИ
-  - Книги
+  - Искуственный интеллект
+  - Чтение
 
 education:
   - area: Прикладная математика и информатика
     institution: РУДН
+    date_start: 2020-09-01
+    date_end: 2024-07-01
+    summary: |
+      Закончила бакалавр с красным дипломом и заняла 2 место в конкурсе лучших дипломных работ.
+    button:
+      text: 'Ничего'
+      url: 'https://example.com'
+  - area: Прикладная математика и информатика, магистратура
+    institution: РУДН
     date_start: 2024-09-01
     date_end: 2026-07-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Обучаюсь в данный момент
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Студент
+  - position: студент
     company_name: РУДН
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Ничего
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -180,5 +153,5 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## О себе
 Здравствуйте! Меня зовут Колчева Юлия, я обочаюсь в РУДН, в группе НПМмд-02-24. На данном сайте размещена основная инфрмация обо мне. 
