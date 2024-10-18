@@ -1,7 +1,7 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: ✅ Second post. Markdown
+summary: Tack 3
+date: 2024-10-19
 authors:
   - admin
 tags:
@@ -11,11 +11,11 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+Learning Markdown language.
 
-## Ideation
+## Description
 
-Hugo Blox supports a Markdown extension for mindmaps.
+I have done some work related to this language. In this article below in English are given some commands that can be used in this language.
 
 Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
 
