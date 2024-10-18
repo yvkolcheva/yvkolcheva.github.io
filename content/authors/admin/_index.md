@@ -133,14 +133,14 @@ awards:
     icon: coursera
     summary: |
       Я участвовла в этом соревненовании вместе с командой из РУДН и мы заняли первое место, получив благодароность от ректора.
-  - title: Награда "Лучшая статья"
+  - title: Best Article Award
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-04-12'
     awarder: edX
     icon: edx
     summary: |
       Награда за лучгую статью в ежегодной конференции РУДН 2024.
-  - title: Красный диплом РУДН
+  - title: RUDN University Diploma with Honors
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2024-07-01'
