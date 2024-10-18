@@ -126,7 +126,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Победа в хакатоне "Цифровой прорыв. Сезон: Искуственный Интеллект".
+  - title: Win in Hakaton
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-03-23'
     awarder: Coursera
