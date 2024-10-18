@@ -1,7 +1,7 @@
 ---
-title: 🧠 First post. Git
+title: 🧠 Second post. Markdown
 summary: Task 2 
-date: 2024-09-03
+date: 2024-10-19
 authors:
   - admin
 tags:
@@ -13,14 +13,14 @@ image:
 
 .
 
-We studied the version control system.  During the work, it was necessary to create a basic configuration for working with git. Namely 1. Create an SSH key. 2. Create a PGP key. 3. Set up git signatures. 4. Register on Github. 5. Create a local directory for completing assignments on the subject.
+На этой неделе мы познакомились с легковсеным языком разметки Макдаун, который позволяет легко записывать сложные математические формулы и оформлять документы. Но для работы с ним необходимо выучить некоторые команды.
 
 ## Results
 
-I have successfully completed this task.
+Я выполнила рабораторную работу, связанную с этим языком. В данной статье ниже на английском языке приводится несколько команд, которые могут быть использованы в этом языке. 
 
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
+
 
 Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
 
