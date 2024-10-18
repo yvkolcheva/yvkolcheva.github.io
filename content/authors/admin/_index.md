@@ -83,7 +83,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Технические данные
+  - name: Навыки
     items:
       - name: Python
         description: 'Проходила различные курсы. изучала в университете'
@@ -109,7 +109,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography себя
+      - name: Фотография
         description: ''
         percent: 80
         icon: camera
