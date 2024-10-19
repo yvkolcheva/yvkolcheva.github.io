@@ -93,7 +93,7 @@ skills:
         description: 'Изучала самостоятельно, есть награды в конкурсах'
         percent: 100
         icon: chart-bar
-      - name: SQL, база данных
+      - name: SQL, Использование SQL в Python 
         description: 'Изучала курсы'
         percent: 40
         icon: circle-stack
@@ -147,7 +147,7 @@ awards:
     awarder: datacamp
     icon: datacamp
     summary: |
-      Red diploma in the specialty "Applied Mathematics and Computer Science".
+      Red diploma in the specialty " Applied Mathematics and Computer Science ".
 ---
 
 ## О себе
