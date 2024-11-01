@@ -34,17 +34,17 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url:  https://elibrary.ru/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url:  https://www.mendeley.com/
   - icon: brands/github
     url: https://github.com/yvkolcheva/yvkolcheva.github.io
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.academia.edu/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0007-6152-3138
 
 interests:
   - Теория веротностей и математическая статистика
