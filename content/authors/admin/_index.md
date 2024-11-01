@@ -34,9 +34,9 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url:  https://elibrary.ru/
+    url: https://elibrary.ru/
   - icon: brands/instagram
-    url:  https://www.mendeley.com/
+    url: https://www.mendeley.com/
   - icon: brands/github
     url: https://github.com/yvkolcheva/yvkolcheva.github.io
   - icon: brands/linkedin
