@@ -1,7 +1,7 @@
 ---
-title: ✅ Second post. Markdown
-summary: Tack 3
-date: 2024-10-19
+title: ✅ Report. Markdown
+summary: Tack 4 
+date: 2024-11-01
 authors:
   - admin
 tags:
@@ -15,11 +15,10 @@ Learning Markdown language.
 
 ## Description
 
-I have done some work related to this language. In this article below in English are given some commands that can be used in this language.
+Оформлять отчет при помощи языка Markdown значительно упрощает работу и уменьшает время на оформление работы.
+Некоторые функции языка представлены в данном посте.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+На прошлой неделе мы выполняли задание, связанное с освоением языка Octave, а также реализовали различные алгоритмы Евклида по поиску НОД двух чисел. 
 
 <div class="highlight">
 <pre class="chroma">
