@@ -1,7 +1,7 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: 📈 5 Tack
+summary: Последний пост в процессе создания индивидуального проекта
+date: 2024-11-16
 authors:
   - admin
 tags:
@@ -12,7 +12,9 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+Существует множество языков программирования, один из них - язык Octave, который мы изучаем в курсе научного программирования. Мы можем использовать его как конкулятор для решения линейных и матричных уравнений. 
+
+There are many programming languages, one of them is Octave language, which we learn in scientific programming course. We can use it as a calculator to solve linear and matrix equations.
 
 Use popular tools such as Plotly, Mermaid, and data frames.
 
