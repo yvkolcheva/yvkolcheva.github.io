@@ -3,7 +3,7 @@
 title: Индивидуальный сайт
 
 # Name pronunciation (optional)
-name_pronunciation: Колчева Юлия Вячеславовна
+name_pronunciation: Колчева Юлия Вячеславовна (Kolcheva Yulia)
 
 # Full name (for SEO)
 first_name: Юлия
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: студент
+role: студент (student)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,11 +48,11 @@ profiles:
 
 interests:
   - Теория веротностей и математическая статистика
-  - Искуственный интеллект
-  - Чтение
+  - Искуственный интеллект (Artificial intelligence)
+  - Чтение (Reading)
 
 education:
-  - area: Прикладная математика и информатика
+  - area: Прикладная математика и информатика (Applied Mathematics and Computer Science)
     institution: РУДН
     date_start: 2020-09-01
     date_end: 2024-07-01
@@ -152,3 +152,4 @@ awards:
 
 ## О себе
 Здравствуйте! Меня зовут Колчева Юлия, я обочаюсь в РУДН, в группе НПМмд-02-24. На данном сайте размещена основная инфрмация обо мне. 
+Hello! My name is Kolcheva Yulia, I study at RUDN, in the group NPMMd-02-24. This site contains basic information about me.
